@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://luipascu.github.io/sitemap.xml
