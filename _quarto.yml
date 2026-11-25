@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Luis Pascual Domínguez"
+  description: "Experimental particle physicist working on Higgs physics, particle reconstruction and isolation at the LHC."
+  site-url: ""
+  navbar:
+    left:
+        - href: index.qmd
+          text: Home
+        - href: research.qmd
+          text: Research
+        - href: publications.qmd
+          text: Publications
+        - href: activities.qmd
+          text: Academic activities
+        - href: cv.qmd
+          text: CV
+    right:
+        - icon: github
+          href: https://github.com/luipascu
+  page-footer:
+    left: "© 2026 Luis Pascual Domínguez"
+    right: "Built with [Quarto](https://quarto.org/)"
+  search: false
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
+
+execute:
+  freeze: auto

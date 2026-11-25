@@ -1,0 +1,34 @@
+
+---
+title: "Research"
+---
+
+My research focuses on experimental particle physics at the Large Hadron Collider, within the ATLAS Collaboration. I work at the interface between physics analyses and the development of experimental methods, combining searches for new phenomena with improvements in the reconstruction and identification of physics objects.
+
+## Current research topics
+
+### SoftDrop-based photon isolation
+
+My PhD research focused on photon isolation in high-pile-up environments and searches for axion-like particles decaying into two photons. Since then, I have worked on electron and photon identification and isolation, efficiency measurements, and methods to estimate fake and non-prompt backgrounds in different analysis contexts. This work has also involved developing software and performance recommendations for use across the ATLAS Collaboration, as well as prospective studies for the High-Luminosity LHC.
+
+At Universidad Autónoma de Madrid, I am developing and implementing [SoftDrop-based](https://arxiv.org/abs/1805.11622) techniques for photon isolation. This work investigates whether a substructure-based approach can improve photon isolation and its robustness in the challenging environments encountered at hadron colliders.
+
+### Searches for diphoton resonances in boosted topologies
+
+I have contributed to ATLAS searches for additional scalar particles and exotic Higgs boson decays, including signatures with diphoton, photon–tau and collimated-lepton final states. My work has covered low- and high-mass resonance searches, as well as analyses targeting challenging boosted topologies.
+
+
+I am involved in searches for diphoton resonances in highly boosted topologies, where the two photons can become increasingly collimated. These challenging signatures motivate the exploration of machine-learning techniques to improve signal identification and sensitivity to new-physics scenarios.
+
+### Higgs boson physics
+
+I have contributed to Higgs boson measurements and searches with the ATLAS detector. This includes serving as analysis contact for the measurement of the differential Higgs boson production cross-section in the diphoton final state using partial Run 3 data collected through 2024.
+
+
+## Selected coordination and service roles
+
+- **Higgs and Light Resonance Searches Convener (2024–2026):** coordinated analyses involving exotic Higgs boson decays and low-mass resonance searches.
+- **Isolation and Fakes Forum Convener (2022–2024):** coordinated activities related to electron, photon and muon isolation, including software development, efficiency measurements and analysis recommendations.
+- **Electron and Photon Upgrade Coordination Contact (2021–2024):** coordinated studies of the ATLAS electron and photon systems for the High-Luminosity LHC.
+- **Diphoton Higgs-like Resonance Searches Coordinator (2020–2022).**
+

@@ -1,0 +1,25 @@
+---
+title: "Selected publications"
+---
+
+The following selection highlights my contributions to experimental particle physics, including Higgs boson and beyond-the-Standard-Model searches, particle reconstruction, trigger techniques and conference proceedings. For ATLAS papers, the collaboration is listed as the author; my specific responsibilities are indicated where applicable.
+
+**M. Yaari, U. Barron, L. Pascual Domínguez, B. Chen, L. Barak, E. Etzion and R. Giryes**, “Trees versus Neural Networks for enhancing tau lepton real-time selection in proton-proton collisions,” *Scientific Reports* **15**, 21832 (2025). [DOI](https://doi.org/10.1038/s41598-025-04767-x).
+
+**ATLAS Collaboration**, “Search for Higgs boson decays into a pair of pseudoscalar particles in the \(\gamma\gamma\tau_h\tau_h\) final state using \(pp\) collisions at \(\sqrt{s}=13\) TeV with the ATLAS detector,” *Journal of High Energy Physics* **03** (2025) 190. [DOI](https://doi.org/10.1007/JHEP03(2025)190).
+
+**ATLAS Collaboration**, “Search for light neutral particles decaying promptly into collimated pairs of electrons or muons in \(pp\) collisions at \(\sqrt{s}=13\) TeV with the ATLAS detector,” *European Physical Journal C* **85**, 335 (2025). [DOI](https://doi.org/10.1140/epjc/s10052-025-13916-5).
+
+**L. Pascual Domínguez**, “Search for low and high mass resonances with \(\gamma\gamma/Z\gamma\) final states with the ATLAS detector,” *Proceedings of the European Physical Society Conference on High Energy Physics* (2023). [DOI](https://doi.org/10.22323/1.449.0389).
+
+
+**ATLAS Collaboration**, “Tools for estimating fake/non-prompt lepton backgrounds with the ATLAS detector at the LHC,” *Journal of Instrumentation* **18** (11), T11004 (2023). [DOI](https://doi.org/10.1088/1748-0221/18/11/T11004).
+
+**ATLAS Collaboration**, “Search for boosted diphoton resonances in the 10 to 70 GeV mass range using 138 fb\(^{-1}\) of 13 TeV \(pp\) collisions with the ATLAS detector,” *Journal of High Energy Physics* **07** (2023) 155. [DOI](https://doi.org/10.1007/JHEP07(2023)155).
+
+
+**ATLAS Collaboration**, “Search for the decay of the Higgs boson to a \(Z\) boson and a light pseudoscalar particle decaying to two photons,” arXiv:2312.01942 [hep-ex] (2023). [arXiv](https://arxiv.org/abs/2312.01942).
+
+**ATLAS Collaboration**, “Electron and photon performance measurements with the ATLAS detector using the 2015–2017 LHC proton-proton collision data,” *Journal of Instrumentation* **14** (12), P12006 (2019). [DOI](https://doi.org/10.1088/1748-0221/14/12/P12006).
+
+

@@ -1,0 +1,30 @@
+---
+title: "Curriculum vitae"
+---
+
+[**Download full curriculum vitae (PDF)**](files/Luis_Pascual_Dominguez_CV.pdf){.btn .btn-primary}
+
+## Current position
+
+**Postdoctoral Research Fellow**, Universidad Autónoma de Madrid, Spain (2026–present).
+
+## Previous academic positions
+
+- **Juan de la Cierva Postdoctoral Research Fellow**, Universidad Autónoma de Madrid, Spain (2024–2026).
+- **Postdoctoral Research Fellow**, Tel Aviv University, based at CERN (2021–2024).
+- **PhD in Particle Physics**, LPNHE, France (2017–2021). Thesis: *Studies of photon isolation in a large-pileup environment and search for axion-like particles decaying into two photons with the ATLAS detector at the LHC*.
+- **Master's Degree in Particle Physics (NPAC)**, Sorbonne Université (2016–2017).
+- **BSc in Physics**, Universidad Complutense de Madrid (2012–2016).
+
+## Research profile
+
+Experimental particle physics with the ATLAS experiment, including Higgs boson and beyond-the-Standard-Model searches, photon and lepton reconstruction and isolation, trigger techniques, and background estimation.
+
+## Selected experience
+
+- ATLAS Higgs and Light Resonance Searches Convener (2024–2026).
+- ATLAS Isolation and Fakes Forum Convener (2022–2024).
+- ATLAS Electron and Photon Upgrade Coordination Contact (2021–2024).
+- More than 180 hours of teaching and supervision of more than 10 students since 2018.
+
+For publications, talks, teaching and additional responsibilities, see the corresponding sections of this website.

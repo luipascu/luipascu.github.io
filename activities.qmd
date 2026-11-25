@@ -1,0 +1,38 @@
+---
+title: "Academic activities"
+---
+
+## Coordination and responsibilities in ATLAS
+
+- **Higgs and Light Resonance Searches Convener (2024–2026):** coordinated analyses involving exotic Higgs boson decays and low-mass resonance searches.
+- **Isolation and Fakes Forum Convener (2022–2024):** coordinated ATLAS activities on electron, photon and muon isolation, including software, efficiency measurements and analysis recommendations.
+- **Electron and Photon Upgrade Coordination Contact (2021–2024):** coordination contact for studies of the ATLAS electron and photon systems for the High-Luminosity LHC.
+- **Diphoton Higgs-like Resonance Searches Coordinator (2020–2022).**
+- **ATLAS Virtual Guide (2022–2024):** contributed to public visits to the ATLAS experiment, in person and by videoconference.
+- **ATLAS Calorimeter and Trigger Shifter (2017–present).**
+
+## Teaching and supervision
+
+Since 2018, I have delivered more than 180 hours of teaching and supervised more than 10 students, from undergraduate to PhD level.
+
+- Co-supervision of four undergraduate final-year projects at UAM (2025–2026), on photon isolation in challenging environments and Higgs boson differential cross-section measurements with Run 3 data.
+- Laboratory sub-coordinator at UAM (2024–2025), coordinating first-year biology laboratory sessions (24 hours).
+- Laboratory teaching at UAM (2024–2025), physics laboratory sessions for third-year physics students (32 hours).
+- Supervision of four ATLAS qualification tasks (2022–2024), covering prompt electron and photon isolation and identification efficiencies.
+- Master Instructor for LA-CoNGA Physics (2021), teaching an introduction to data analysis with ATLAS Open Data (4 hours).
+- Teaching at Université de Paris (2018–2020), including elementary physics for first-year medicine students (36 hours) and computing courses for first-year science students (64 hours).
+
+## Selected talks and seminars
+
+- “Recent ATLAS results on searches for additional scalars,” LHCP 2026, France (2026).
+- “h125 at ATLAS,” Higgs Days at Santander: Theory Meets Experiment, Spain (2025).
+- “Unraveling boosted topologies with leptons and photons: new techniques and recent results in ATLAS,” XVI CPAN Days, Spain (2024).
+- “Search for low and high mass resonances with \(\gamma\gamma/Z\gamma\) final states with the ATLAS detector,” EPS-HEP, Germany (2023).
+- “Low mass Higgs searches,” Higgs Days at Santander: Theory Meets Experiment, Spain (2022).
+- “Searches for additional Higgs bosons in ATLAS,” Phenomenology Symposium, Pittsburgh, USA (2022).
+- Invited seminar: “Extending resonance searches towards lower masses: results and prospectives with the ATLAS experiment,” CIEMAT, Spain (2023).
+
+## Outreach
+
+- Co-organiser of “Trayendo el CERN a la UAM,” ATLAS outreach activities during the 2025 Semana de la Ciencia, including a seminar and construction of a cloud chamber.
+- Outreach seminars on ATLAS and particle physics for school and university audiences in Israel and Vietnam.
